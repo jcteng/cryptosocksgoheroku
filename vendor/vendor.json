@@ -1,0 +1,181 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "qHpoguf0n1mueKbYN5/Cr10461M=",
+			"path": "github.com/heroku/x/hmetrics",
+			"revision": "85e5aa5e6aa19919252eec6561dcafafba3be425",
+			"revisionTime": "2018-11-02T21:51:00Z"
+		},
+		{
+			"checksumSHA1": "2eVQMk8j6gpl/qT6OpZmBJjsw2s=",
+			"path": "github.com/heroku/x/hmetrics/onload",
+			"revision": "85e5aa5e6aa19919252eec6561dcafafba3be425",
+			"revisionTime": "2018-11-02T21:51:00Z"
+		},
+		{
+			"checksumSHA1": "OpW6q/KI+UtBq/CcLKibYEW60Tk=",
+			"path": "github.com/jcteng/cryptosocksgo/pkg/cmux",
+			"revision": "0376279555f5e84dcecd14ccdcbd65eed753c31e",
+			"revisionTime": "2018-12-29T18:39:25Z"
+		},
+		{
+			"checksumSHA1": "OpxqbMjY3IJeIb2yf3d1mXFzICU=",
+			"path": "github.com/jcteng/cryptosocksgo/pkg/cryptostream",
+			"revision": "0376279555f5e84dcecd14ccdcbd65eed753c31e",
+			"revisionTime": "2018-12-29T18:39:25Z"
+		},
+		{
+			"checksumSHA1": "pVDnQswoUDvXd+u4cF0sdgpXICk=",
+			"path": "github.com/jcteng/cryptosocksgo/pkg/csremotelib",
+			"revision": "0376279555f5e84dcecd14ccdcbd65eed753c31e",
+			"revisionTime": "2018-12-29T18:39:25Z"
+		},
+		{
+			"checksumSHA1": "7IXyErZMJVk1GC4OzFU3818Xs0U=",
+			"path": "github.com/jcteng/cryptosocksgo/pkg/kcpconf",
+			"revision": "0376279555f5e84dcecd14ccdcbd65eed753c31e",
+			"revisionTime": "2018-12-29T18:39:25Z"
+		},
+		{
+			"checksumSHA1": "xEHEfywV/9zZ/nPy/PJBF6xVn1o=",
+			"path": "github.com/klauspost/cpuid",
+			"revision": "c640019ed4bda023bac884990967336803e39e3a",
+			"revisionTime": "2018-11-11T19:45:02Z"
+		},
+		{
+			"checksumSHA1": "05PdHbv6Z3PC+W3CUxnubeBvF28=",
+			"path": "github.com/klauspost/reedsolomon",
+			"revision": "278ba25f43b885a3fd8da55cff33fc8c6a957960",
+			"revisionTime": "2018-11-15T23:23:56Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
+		},
+		{
+			"checksumSHA1": "qqpVejcXaI/J8BTLTyclYKTtwa8=",
+			"path": "github.com/templexxx/cpufeat",
+			"revision": "cef66df7f161dee20f4d650da7268d77eaaec82d",
+			"revisionTime": "2018-07-24T01:21:25Z"
+		},
+		{
+			"checksumSHA1": "Ux+1rIa1HMnDUNw4rJ518AgHRu4=",
+			"path": "github.com/templexxx/xor",
+			"revision": "4e92f724b73b7aaf61869bb1ae5817822e738430",
+			"revisionTime": "2018-10-23T03:06:47Z"
+		},
+		{
+			"checksumSHA1": "A9I1dw9rxLkj28F0tkbrXrKI7uE=",
+			"path": "github.com/tjfoc/gmsm/sm4",
+			"revision": "0b26aafa7604a3cd63d76facfb62dc7885c068fa",
+			"revisionTime": "2018-08-08T03:38:42Z"
+		},
+		{
+			"checksumSHA1": "p6dwy1LnnyQpJD7eeoEpKR0sybY=",
+			"path": "github.com/xtaci/kcp-go",
+			"revision": "02d11d20c5864d980168568741c0d52a50379512",
+			"revisionTime": "2018-11-14T15:35:21Z"
+		},
+		{
+			"checksumSHA1": "oVPHWesOmZ02vLq2fglGvf+AMgk=",
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "TT1rac6kpQp2vz24m5yDGUNQ/QQ=",
+			"path": "golang.org/x/crypto/cast5",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "/U7f2gaH6DnEmLguVLDbipU6kXU=",
+			"path": "golang.org/x/crypto/internal/subtle",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "8jqc1sHlUFV6ivSechW+PA8wL0g=",
+			"path": "golang.org/x/crypto/salsa20",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "cRCpfAgTnlIDpdcfjivbiv+9YJU=",
+			"path": "golang.org/x/crypto/salsa20/salsa",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "iQ2rsLr5H+AAHWbDBukuWS4j/m0=",
+			"path": "golang.org/x/crypto/tea",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "fgKd/+IO854XgYSrwOQJ5jG8WdI=",
+			"path": "golang.org/x/crypto/twofish",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "kEEDC0IVwku1kk4jKstZjqDjV3Q=",
+			"path": "golang.org/x/crypto/xtea",
+			"revision": "505ab145d0a99da450461ae2c1a9f6cd10d1f447",
+			"revisionTime": "2018-09-26T22:07:39Z"
+		},
+		{
+			"checksumSHA1": "Pa6ivEz5fid3ECb1hptNbC+USfA=",
+			"path": "golang.org/x/net/bpf",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "CHpYrf4HcmHB60gnTNxgjGgY53w=",
+			"path": "golang.org/x/net/internal/iana",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "wUFe08HvcVTwkXK7dojH3W7CQVg=",
+			"path": "golang.org/x/net/internal/socket",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "f3Y7JIZH61oMmp8nphqe8Mg+XoU=",
+			"path": "golang.org/x/net/internal/socks",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "dqaszZEDmlKphRAGEzzgQuH8dcA=",
+			"path": "golang.org/x/net/ipv4",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "UrFs0T7kkYsUxJG5bsJt7KB8ejI=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		},
+		{
+			"checksumSHA1": "F+tqxPGFt5x7DKZakbbMmENX1oQ=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
+			"revisionTime": "2018-11-06T03:02:00Z"
+		}
+	],
+	"rootPath": "cryptosocksv2heroku"
+}
